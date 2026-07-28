@@ -20,7 +20,7 @@ Recently, I completed the DreamDevs Internship at Moniepoint, where I collaborat
 
 ## Let’s Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obinna-richard-ogueri/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obinna-ogueri-2630bb357)
 - 🌐 [Portfolio](https://obinnaogueri.site) <!-- Replace with your actual portfolio URL -->
 - 📧 [ikechuwuogueri@gmail.com](mailto:ikechukwuogueri@gmail.com)
 
